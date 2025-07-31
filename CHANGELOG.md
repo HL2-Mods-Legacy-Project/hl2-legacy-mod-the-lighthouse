@@ -7,4 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+## [1.0.0] - 2025-07-31
+
+### Added
+
+- Initial release
+
+### Fixed
+
+- Maps lighthouse02, lighthouse03, lighthouse10
+  - Players unable to move after reloading the game before ally death end game relay is finished
